@@ -1,0 +1,88 @@
+.btn1{
+	border-radius: 20px;
+	border-color: black;
+	background-color: black;
+	color: white;
+	margin-left: 35rem;
+}
+.cont1{
+	padding-bottom: 8rem;
+}
+
+.cont2{
+	background-color: black;
+	color: white;
+	height: 300px;
+	padding-top: 5rem;
+}
+
+.cont3{
+	margin-top: 8rem;
+
+}
+
+.cont4{
+	margin-top: 8rem;
+}
+
+.bg2-light {
+    background-color: var(--white) !important;
+    color: black;
+    padding-left: 6rem;
+}
+
+ul{
+	text-decoration:none ;
+}
+.pcont1{
+	width:780px;
+	padding-left: 27rem;
+}
+
+ul{
+	list-style: none;
+}
+.h3cont2{
+	padding-bottom: 2rem;
+	width: 900px;
+	padding-left: 20rem;
+}
+.btn5{
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	border-color: black;
+}
+
+.cont5{
+	margin-top: 5rem;
+	padding-left:30rem;
+}
+
+.contt{
+	padding-left: 2.2rem;
+}
+ 
+.h1cont1 span{
+      color: blue;
+
+} 
+
+.h1cont1{
+	font-weight: bold;
+	width: 800px;
+	padding-left: 25rem;
+} 
+
+.hh{
+	padding-bottom: 2rem;
+	padding-left: 1rem;
+	padding-top: 1rem;
+	color: blue;
+	font-weight: bold;
+}
+
+.cd{
+	border-radius: 30px;
+	box-shadow: 1px 2px 2px 1px lightgrey;
+}

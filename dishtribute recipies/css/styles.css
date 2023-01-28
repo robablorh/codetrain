@@ -1,0 +1,57 @@
+
+
+
+
+.showcase{
+	background-image: url(f2.jpg);
+	height: 400px;
+	width: 1350px;
+	background-position:center;
+}
+
+.showcase h1{
+   
+   color: white;
+   text-align: center;
+
+}
+
+h2{
+	background-color: black;
+	width: 1350px;
+	height: 40px;
+	color: whitesmoke;
+}
+
+.container2 {
+	color: white;
+	background-color: orange;
+	width: 1350px;
+	height: 130px;
+
+}
+
+.container3 {
+
+	color: white;
+	background-image:url(f2.jpg);
+	width: 1350px;
+	height: 270px;
+
+
+}
+.container3 a{
+	color: white;
+	text-decoration: none;
+}
+.container3 li{
+	text-decoration: none;
+
+}
+.footer p{
+	color: white;
+	background-color: black;
+	height: 50px;
+	width: 1350px;
+	text-align: center;
+}
